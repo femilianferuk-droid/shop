@@ -1,0 +1,16 @@
+aiogram==3.4.1
+python-dotenv==1.0.0
+moviepy==1.0.3
+openai-whisper==20231117
+googletrans==4.0.0rc1
+gTTS==2.4.0
+ffmpeg-python==0.2.0
+numpy==1.24.3
+torch==2.0.1
+requests==2.31.0
+Pillow==10.1.0
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
+decorator==5.1.1
+tqdm==4.66.1
+proglog==0.1.10
